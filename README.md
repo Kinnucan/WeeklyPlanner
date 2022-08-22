@@ -1,4 +1,4 @@
-Comp 446: HW1
+Weekly Planner
 ====
 
-Instructions are [here](https://docs.google.com/document/d/1rF5pmxXnqNsXP4I8QS0Jn7VbKo8_7tijy-4tqVGc68Y/edit?usp=sharing).
+A basic weekly planner written using Javascript, HTML, and CSS.
